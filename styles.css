@@ -834,3 +834,7 @@ h3 {
     letter-spacing: 0.16em;
   }
 }
+.delegation-text {
+  font-size: 0.38em;
+  font-weight: 600;
+}

@@ -65,12 +65,21 @@ p {
   padding: 1rem 0;
 }
 
-.brand {
+  .brand {
+  display: flex;
+  align-items: center;
+  gap: 0.7rem;
   color: var(--gold-2);
   font-weight: 900;
   letter-spacing: 0.22em;
   text-shadow: 0 0 22px rgba(247, 201, 72, 0.34);
   white-space: nowrap;
+}
+
+.nav-logo {
+  width: 42px;
+  height: 42px;
+  object-fit: contain;
 }
 
 .nav-links {

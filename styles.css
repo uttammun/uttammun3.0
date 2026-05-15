@@ -68,7 +68,7 @@ p {
   .brand {
   display: flex;
   align-items: center;
-  gap: 0.5rem;
+  gap: 0.7rem;
   color: var(--gold-2);
   font-weight: 900;
   letter-spacing: 0.22em;
